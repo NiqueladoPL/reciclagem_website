@@ -69,6 +69,10 @@ iframe{
         height: 8px;
     }
     
+    #btn-maps{
+        margin-left: 15px;
+    }
+
     .img-carrossel{
         height: 550px;
     }

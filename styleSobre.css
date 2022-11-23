@@ -10,3 +10,12 @@
 .container-imagem{
     text-align: center;
 }
+
+
+@media only screen and (min-width: 767px){
+
+    #btn-maps{
+        margin-left: 15px;
+    }
+
+}
